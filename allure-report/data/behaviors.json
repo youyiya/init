@@ -1,0 +1,83 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "loginTest",
+    "uid" : "e14a6fa8fa82eb0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571577421975,
+      "stop" : 1571577421984,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "admin", "admin", "欢迎,.管理员" ]
+  }, {
+    "name" : "loginTest",
+    "uid" : "974cd9e03393618c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571581179962,
+      "stop" : 1571581179971,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "", "", "用户名或密码不能为空" ]
+  }, {
+    "name" : "loginTest",
+    "uid" : "6319a2369a8f5c2b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571581179982,
+      "stop" : 1571581179983,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "youyi", "", "用户名或密码不能为空" ]
+  }, {
+    "name" : "loginTest",
+    "uid" : "b01bffd10236907",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571581179988,
+      "stop" : 1571581179988,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "admin", "admin", "欢迎,管理员" ]
+  }, {
+    "name" : "loginTest",
+    "uid" : "e31c197e075d578f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571581179993,
+      "stop" : 1571581179994,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "youyi", "111", "欢迎,youyi" ]
+  }, {
+    "name" : "test02",
+    "uid" : "a35cb121aa60686c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571581179997,
+      "stop" : 1571581179997,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

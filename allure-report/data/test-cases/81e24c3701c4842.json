@@ -1,0 +1,101 @@
+{
+  "uid" : "81e24c3701c4842",
+  "name" : "loginTest",
+  "fullName" : "testng_test.TestNgTest.loginTest",
+  "historyId" : "d87ad17e1492cf3bf20480e2194be7c5",
+  "time" : {
+    "start" : 1571579128944,
+    "stop" : 1571579128952,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setupMethod",
+    "time" : {
+      "start" : 1571579128670,
+      "stop" : 1571579128671,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setupClass",
+    "time" : {
+      "start" : 1571579128651,
+      "stop" : 1571579128655,
+      "duration" : 4
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testng_test.TestNgTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testng_test.TestNgTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testng_test.TestNgTest"
+  }, {
+    "name" : "host",
+    "value" : "youyidembp"
+  }, {
+    "name" : "thread",
+    "value" : "13594@youyidembp.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : ""
+  }, {
+    "name" : "arg1",
+    "value" : ""
+  }, {
+    "name" : "arg2",
+    "value" : "用户名或密码不能为空"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81e24c3701c4842.json",
+  "parameterValues" : [ "", "", "用户名或密码不能为空" ]
+}

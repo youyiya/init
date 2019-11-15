@@ -1,0 +1,15 @@
+2019-10-23 22:15:12,174 [main] [hxb.Common] [WARN] - driver对象为空，请检查代码
+2019-10-23 22:16:23,087 [main] [hxb.Common] [WARN] - driver对象为空，请检查代码
+2019-10-23 22:17:57,202 [main] [hxb.Common] [WARN] - 找不到当前元素By.id: com.android.packageinstaller:id/permission_allow_button
+2019-10-23 22:18:00,539 [main] [hxb.Common] [WARN] - 找不到当前元素By.id: com.hoomsun.hxb:id/left_btn
+2019-10-23 22:18:00,582 [main] [hxb.Common] [INFO] - 找到当前元素By.id: com.hoomsun.hxb:id/tab_home
+2019-10-23 22:18:00,582 [main] [hxb.Case] [INFO] - 启动app成功
+2019-10-23 22:18:06,984 [main] [hxb.Common] [INFO] - 找到当前元素By.id: com.hoomsun.hxb:id/tab_home
+2019-10-23 22:18:06,985 [main] [hxb.Case] [INFO] - 13552360596登录成功
+2019-10-23 22:18:09,922 [main] [hxb.Common] [INFO] - 找到当前元素By.id: com.hoomsun.hxb:id/notify_login_password
+2019-10-23 22:18:47,119 [main] [hxb.Common] [WARN] - 找不到当前元素By.id: com.android.packageinstaller:id/permission_allow_button
+2019-10-23 22:18:47,166 [main] [hxb.Common] [INFO] - 找到当前元素By.id: com.hoomsun.hxb:id/left_btn
+2019-10-23 22:18:48,256 [main] [hxb.Common] [INFO] - 找到当前元素By.id: com.hoomsun.hxb:id/tab_home
+2019-10-23 22:18:48,257 [main] [hxb.Case] [INFO] - 启动app成功
+2019-10-23 22:18:48,302 [main] [hxb.Case] [INFO] - 已经是登录状态
+2019-10-23 22:18:51,223 [main] [hxb.Common] [INFO] - 找到当前元素By.id: com.hoomsun.hxb:id/notify_login_password

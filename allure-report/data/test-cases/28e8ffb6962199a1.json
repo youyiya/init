@@ -1,0 +1,101 @@
+{
+  "uid" : "28e8ffb6962199a1",
+  "name" : "loginTest",
+  "fullName" : "testng_test.TestNgTest.loginTest",
+  "historyId" : "7297f0f5b2763c259737ddff7cef12cd",
+  "time" : {
+    "start" : 1571579128961,
+    "stop" : 1571579128961,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setupClass",
+    "time" : {
+      "start" : 1571579128651,
+      "stop" : 1571579128655,
+      "duration" : 4
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setupMethod",
+    "time" : {
+      "start" : 1571579128959,
+      "stop" : 1571579128959,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testng_test.TestNgTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testng_test.TestNgTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testng_test.TestNgTest"
+  }, {
+    "name" : "host",
+    "value" : "youyidembp"
+  }, {
+    "name" : "thread",
+    "value" : "13594@youyidembp.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "youyi"
+  }, {
+    "name" : "arg1",
+    "value" : ""
+  }, {
+    "name" : "arg2",
+    "value" : "用户名或密码不能为空"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28e8ffb6962199a1.json",
+  "parameterValues" : [ "youyi", "", "用户名或密码不能为空" ]
+}

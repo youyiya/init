@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59a5477e-dbcc-47f3-a9f3-313a14886173" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QB5e7RIQBYZo1eI4iMOFoTrnsx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestNgTest">
+    <configuration name="BuyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hxb_appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit4test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit4test" />
+      <option name="MAIN_CLASS_NAME" value="junit4test.BuyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HxbTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hxb_appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hxb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hxb" />
+      <option name="MAIN_CLASS_NAME" value="hxb.HxbTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HxbTest.test00" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hxb_appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hxb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hxb" />
+      <option name="MAIN_CLASS_NAME" value="hxb.HxbTest" />
+      <option name="METHOD_NAME" value="test00" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.intTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hxb_appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.Test" />
+      <option name="METHOD_NAME" value="intTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNgTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hxb_appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng_test" />
+      <option name="MAIN_CLASS_NAME" value="testng_test.TestNgTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BuyTest" />
+      <item itemvalue="TestNG.TestNgTest" />
+      <item itemvalue="JUnit.HxbTest" />
+      <item itemvalue="JUnit.HxbTest.test00" />
+      <item itemvalue="JUnit.Test.intTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestNgTest" />
+        <item itemvalue="JUnit.Test.intTest" />
+        <item itemvalue="JUnit.HxbTest" />
+        <item itemvalue="JUnit.HxbTest.test00" />
+        <item itemvalue="JUnit.BuyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59a5477e-dbcc-47f3-a9f3-313a14886173" name="Default Changelist" comment="" />
+      <created>1567231240737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567231240737</updated>
+      <workItem from="1567231243954" duration="31690000" />
+      <workItem from="1568816827333" duration="10265000" />
+      <workItem from="1569369031700" duration="1111000" />
+      <workItem from="1571152987906" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

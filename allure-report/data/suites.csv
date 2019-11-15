@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Oct 20 22:19:39 CST 2019","Sun Oct 20 22:19:39 CST 2019","9","Command line suite","Command line test","testng_test.TestNgTest","testng_test.TestNgTest","loginTest","loginTest",""
+"passed","Sun Oct 20 22:19:39 CST 2019","Sun Oct 20 22:19:39 CST 2019","0","Command line suite","Command line test","testng_test.TestNgTest","testng_test.TestNgTest","loginTest","loginTest",""
+"passed","Sun Oct 20 22:19:39 CST 2019","Sun Oct 20 22:19:39 CST 2019","1","Command line suite","Command line test","testng_test.TestNgTest","testng_test.TestNgTest","loginTest","loginTest",""
+"passed","Sun Oct 20 22:19:39 CST 2019","Sun Oct 20 22:19:39 CST 2019","0","Command line suite","Command line test","testng_test.TestNgTest","testng_test.TestNgTest","test02","test02",""
+"passed","Sun Oct 20 22:19:39 CST 2019","Sun Oct 20 22:19:39 CST 2019","1","Command line suite","Command line test","testng_test.TestNgTest","testng_test.TestNgTest","loginTest","loginTest",""
+"failed","Sun Oct 20 21:17:01 CST 2019","Sun Oct 20 21:17:01 CST 2019","9","Default Suite","hxb_appium","testng_test.TestNgTest","testng_test.TestNgTest","loginTest","loginTest",""

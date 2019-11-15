@@ -1,0 +1,11 @@
+2019-11-15 08:23:30,045 [main] [testng_test.TestNgTest] [INFO] - 类初始化
+2019-11-15 08:23:30,065 [main] [testng_test.TestNgTest] [INFO] - 方法初始化
+2019-11-15 08:23:30,940 [main] [testng_test.Login] [ERROR] - 用户名或密码不正确
+2019-11-15 08:23:30,954 [main] [testng_test.TestNgTest] [INFO] - 方法初始化
+2019-11-15 08:23:30,963 [main] [testng_test.Login] [ERROR] - 用户名或密码不正确
+2019-11-15 08:23:30,967 [main] [testng_test.TestNgTest] [INFO] - 方法初始化
+2019-11-15 08:23:30,978 [main] [testng_test.Login] [INFO] - 管理员登录
+2019-11-15 08:23:30,980 [main] [testng_test.TestNgTest] [INFO] - 方法初始化
+2019-11-15 08:23:30,984 [main] [testng_test.Login] [INFO] - 普通用户登录
+2019-11-15 08:23:30,993 [main] [testng_test.TestNgTest] [INFO] - 方法初始化
+2019-11-15 08:23:30,998 [main] [testng_test.TestNgTest] [INFO] - test02测试方法

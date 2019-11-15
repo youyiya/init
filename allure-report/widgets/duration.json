@@ -1,0 +1,61 @@
+[ {
+  "uid" : "974cd9e03393618c",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1571581179962,
+    "stop" : 1571581179971,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b01bffd10236907",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1571581179988,
+    "stop" : 1571581179988,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e31c197e075d578f",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1571581179993,
+    "stop" : 1571581179994,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a35cb121aa60686c",
+  "name" : "test02",
+  "time" : {
+    "start" : 1571581179997,
+    "stop" : 1571581179997,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6319a2369a8f5c2b",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1571581179982,
+    "stop" : 1571581179983,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e14a6fa8fa82eb0",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1571577421975,
+    "stop" : 1571577421984,
+    "duration" : 9
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

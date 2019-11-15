@@ -1,0 +1,6 @@
+2019-10-17 18:37:52,812 [main] [hxb.Common] [WARN] - 找不到当前元素By.id: com.android.packageinstaller:id/permission_allow_button
+2019-10-17 18:37:56,050 [main] [hxb.Common] [WARN] - 找不到当前元素By.id: com.hoomsun.hxb:id/left_btn
+2019-10-17 18:37:56,083 [main] [hxb.Common] [INFO] - 找到当前元素By.id: com.hoomsun.hxb:id/tab_home
+2019-10-17 18:37:56,083 [main] [hxb.Case] [INFO] - 启动app成功
+2019-10-17 18:38:04,990 [main] [hxb.Common] [WARN] - 找不到当前元素By.id: com.hoomsun.hxb:id/tab_home
+2019-10-17 18:38:04,991 [main] [hxb.Case] [INFO] - 13552360596登录失败

@@ -1,0 +1,92 @@
+{
+  "uid" : "6715b5d5abf72e92",
+  "name" : "test02",
+  "fullName" : "testng_test.TestNgTest.test02",
+  "historyId" : "541ca1da734df6ef7525d32038837bf4",
+  "time" : {
+    "start" : 1571580552023,
+    "stop" : 1571580552023,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setupMethod",
+    "time" : {
+      "start" : 1571580552019,
+      "stop" : 1571580552019,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setupClass",
+    "time" : {
+      "start" : 1571580550873,
+      "stop" : 1571580550879,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testng_test.TestNgTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testng_test.TestNgTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testng_test.TestNgTest"
+  }, {
+    "name" : "host",
+    "value" : "youyidembp"
+  }, {
+    "name" : "thread",
+    "value" : "13911@youyidembp.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6715b5d5abf72e92.json",
+  "parameterValues" : [ ]
+}

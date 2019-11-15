@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1">
+    <test verbose="1" preserve-order="true" name="/Users/youyima/Documents/测试学习/测试/hxb_appium/testDemo">
+        <groups>
+            <dependencies>
+                <group name="group1" depends-on="">
+                    <classes>
+                        <class name="testng_test.TestNgTest">
+                            <methods>
+                                <parameter name="username" value="youyi"></parameter>
+                                <parameter name="pwd" value="111"></parameter>
+                                <parameter name="expect" value="欢迎,youyi"></parameter>
+                                <include name="loginTest">
+                                </include>
+                                <include name="test02"></include>
+                            </methods>
+                        </class>
+                    </classes>
+                </group>
+            </dependencies>
+        </groups>
+    </test>
+</suite>
